@@ -243,6 +243,18 @@ Start Learning at the Beginning of your College days!
 - Adobe Docs
 - Courseera
 
+
+## Skills
+* Coding
+* Photo Editing
+* Video Editing
+* Technical Content Writting
+* Animation
+* Game Designing
+* AWS
+* Linux
+
+
 ## Placement Preparation
    * Apti
      - Mathematics
@@ -335,6 +347,15 @@ Start Learning at the Beginning of your College days!
 |Digital Logic|5|
 |Compiler Design|4|
 |Data Structures|10|
+
+## Advance Technology
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+* Cloud Computing
+* Deep Learning
+* Big Data
+* Augumented Reality and Virtual Reality
 
 
 ## Careers
