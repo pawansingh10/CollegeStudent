@@ -131,6 +131,18 @@ Start Learning at the Beginning of your College days!
  - Travellers
  - Park/Museum/Hisorical Place
  - Explore yourself
+ 
+## Contests participation
+ - College Level
+ - HackWithInfy
+ - InfyTQ
+ - CodeVita
+ - NQT
+ - WIPRO NLTH
+ - Google Code Jam
+ - Google Hash Code
+ - Kick Start
+
 ## Notes For Your All Semester Subjects
  - 1st Sem
    * Engineering Chemistry
@@ -182,6 +194,13 @@ Start Learning at the Beginning of your College days!
    * Internet Of Things
    * Cloud Computing
    * Image Processing
+
+## Internships & Projects
+- Internship helps in Placements
+- Try to grab Internship opportunity
+- Projects is crucial part of placement
+- Make sets of good and useful projects
+- Make a portfolio websites of your own
 
 ## Placement Preparation
    * Apti
@@ -275,3 +294,22 @@ Start Learning at the Beginning of your College days!
 |Digital Logic|5|
 |Compiler Design|4|
 |Data Structures|10|
+
+
+## Careers
+- FreeLancing
+- Blogging
+- Campus
+- Off Campus FAANG
+- SDE-I
+- Testers
+- FrontEnd Developers
+- BackEnd Developer
+- SalesForce Developers
+- Android Developers
+- FullStack Developers
+- Civil Services
+- Government Job
+- GATE/PSUs
+- Teaching
+ 
