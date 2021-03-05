@@ -85,6 +85,7 @@ Start Learning at the Beginning of your College days!
 - LinkedIn
 - Telegram
 - tweeter
+- Discord
 - Instagram
 - Facebook
 - Signal
@@ -201,6 +202,46 @@ Start Learning at the Beginning of your College days!
 - Projects is crucial part of placement
 - Make sets of good and useful projects
 - Make a portfolio websites of your own
+
+## Programming Languages
+- C/C++
+- Java-SE/Java-EE
+- Python
+- Django/Flask
+- Hibernet/Spring
+- SQL
+- HTML/CSS/JavaScript
+- BootStrap
+- Android
+- Kotlin
+- C#
+- Swift
+- R
+- Python Modules/numPy/Pandas/Tkinter/
+- WebScrapping
+
+## Software Use
+- C/C++
+- CodeBlocks
+- Netbeans
+- VSCode
+- PyCharm
+- IntelliJ Idea
+- Eclipse
+- CLion
+- Atom
+- Jupyter Notebook
+- OBS Studio
+- Visual Studio
+- Android Studio
+- VLC Media Player/PortPlayer
+- Chrome/Brave/safari
+- google/duckduckgo
+- BBC English Learning
+- Pocket
+- News Google
+- Adobe Docs
+- Courseera
 
 ## Placement Preparation
    * Apti
