@@ -24,6 +24,26 @@ Start Learning at the Beginning of your College days!
  - Cultural
  - Technical
  - Training & Placement Cell
+ 
+## Creatives
+ - Arts
+ - Singing
+ - Dancing
+ - Playing Games - Cricket/Table-Tennis/Volley-Ball/Online-Gaming
+ - Painting
+ - Posture Making
+ - Logo Designing
+
+## Classes Bunks
+ - Playing while classes are going on
+ - Canteen
+ - Library
+ - Friends Talk
+ 
+## Develop Habbits
+ - Reading Newspaper
+ - Reading Books
+ - Talk to People
 
 ## Programming Languages
  - C
@@ -123,16 +143,17 @@ Start Learning at the Beginning of your College days!
 
 ## Placement Preparation
    * Apti
-    - Mathematics
-    - Reasonings
-    - Puzzles
+     - Mathematics
+     - Reasonings
+     - Puzzles
     
    * English
-    - Reading Comprehensions
-    - Grammar
+     - Reading Comprehensions
+     - Grammar
     
    * Coding
-    - Practice Basics Problems
+   
+     - Practice Basics Problems
       ##### Basics
       - Input/Output
       - Patterns Printing
