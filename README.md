@@ -1,4 +1,4 @@
-### A College Student
+### A Computer Science College Student
 Start Learning at the Beginning of your College days!
 
 ## Communication
@@ -37,6 +37,7 @@ Start Learning at the Beginning of your College days!
 ## Classes Bunks
  - Playing while classes are going on
  - Canteen
+ - College Mess
  - Library
  - Friends Talk
  
@@ -79,8 +80,34 @@ Start Learning at the Beginning of your College days!
 - Javatpoint
 - TutorialPoint
 
+
+## Social Media Accounts
+- LinkedIn
+- Telegram
+- tweeter
+- Instagram
+- Facebook
+- Signal
+- WhatsApp
+
 ## Youtube Hacks
 - Technical Channels
+
+## Courses
+- Couseera
+- Udemy
+- IBM Cogmitive Class.ai
+- InfyTQ Platform Courses
+- TCSion Platform
+- soloLearn
+- Udacity
+- Internshala
+- Coding Blocks
+- Coding Ninjas
+- GFG Courses
+- unacademy
+- FreeCodeCamp
+
 
 ## DSA Courses
 - Data Structure
@@ -89,6 +116,21 @@ Start Learning at the Beginning of your College days!
 - Java
 - Python
 
+
+## Techs
+- Git & GitHub
+- Onlne Coding
+- IDEs of Different Language
+- Compiler/Interpreter
+- .exe file
+- markdown file
+
+
+## Trips
+ - Visits of Different places
+ - Travellers
+ - Park/Museum/Hisorical Place
+ - Explore yourself
 ## Notes For Your All Semester Subjects
  - 1st Sem
    * Engineering Chemistry
